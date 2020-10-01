@@ -1,5 +1,6 @@
 Cuckoo Scraper Script
 By Melissa Augustine
 ------------------------------
-
+Dependency:
+jinja2
 See CuckooScraperScript_HOWTO.pdf for more info
